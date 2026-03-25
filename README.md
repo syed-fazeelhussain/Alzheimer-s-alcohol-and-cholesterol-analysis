@@ -12,4 +12,5 @@ The data for alcohol consumption and cholesterol level both were not normally di
 
 The result was statistically insignificant(p-value=0.114) and the correlation was extremely Weak(-0.034) suggesting there is no direct correlation of alcohol consumption with cholesterol levels in Alzheimer's patients 
 Regression plot was plotted using matplotlib and seaborn for better visualization
+![Regression Plot of Alcohol vs Cholesterol](Reg%20Plot.png)
 
