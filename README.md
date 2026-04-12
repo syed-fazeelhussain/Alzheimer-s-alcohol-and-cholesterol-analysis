@@ -1,5 +1,3 @@
-Click Here to Launch the Live Predictor App:  https://heart-disease-predicting-model-shddxlu7yxuqye8dtven3d.streamlit.app/
-
 Statistical analysis assessing the correlation between alcohol consumption and cholesterol level in Alzheimer's patients.
 The objective of this analysis was to determine if there is a direct correlation between alcohol consumption and cholesterol level in Alzheimer's patients.
 The data was utilized in this analysis was acquired via kaggle
